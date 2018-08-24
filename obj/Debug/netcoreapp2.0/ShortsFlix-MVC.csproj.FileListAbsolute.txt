@@ -1,0 +1,11 @@
+C:\Projects\ShortsFlix-MVC\bin\Debug\netcoreapp2.0\ShortsFlix-MVC.deps.json
+C:\Projects\ShortsFlix-MVC\bin\Debug\netcoreapp2.0\ShortsFlix-MVC.runtimeconfig.json
+C:\Projects\ShortsFlix-MVC\bin\Debug\netcoreapp2.0\ShortsFlix-MVC.runtimeconfig.dev.json
+C:\Projects\ShortsFlix-MVC\bin\Debug\netcoreapp2.0\ShortsFlix-MVC.dll
+C:\Projects\ShortsFlix-MVC\bin\Debug\netcoreapp2.0\ShortsFlix-MVC.pdb
+C:\Projects\ShortsFlix-MVC\obj\Debug\netcoreapp2.0\ShortsFlix-MVC.csprojResolveAssemblyReference.cache
+C:\Projects\ShortsFlix-MVC\obj\Debug\netcoreapp2.0\ShortsFlix-MVC.csproj.CoreCompileInputs.cache
+C:\Projects\ShortsFlix-MVC\obj\Debug\netcoreapp2.0\ShortsFlix-MVC.AssemblyInfoInputs.cache
+C:\Projects\ShortsFlix-MVC\obj\Debug\netcoreapp2.0\ShortsFlix-MVC.AssemblyInfo.cs
+C:\Projects\ShortsFlix-MVC\obj\Debug\netcoreapp2.0\ShortsFlix-MVC.dll
+C:\Projects\ShortsFlix-MVC\obj\Debug\netcoreapp2.0\ShortsFlix-MVC.pdb
